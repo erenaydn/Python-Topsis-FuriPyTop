@@ -1,7 +1,7 @@
 # Python-Topsis-FuriPyTop
 TOPSIS application on Human Resources personnel selection
 
-![FuriPyTop1](https://user-images.githubusercontent.com/83093241/121994550-2c874c00-cdae-11eb-8d1c-2468d2e21064.png)
+![FuriPyTop1](https://user-images.githubusercontent.com/83093241/121994550-2c874c00-cdae-11eb-8d1c-2468d2e21064.png 100x30)
 
 ![FuriPyTOP2](https://user-images.githubusercontent.com/83093241/121994754-8425b780-cdae-11eb-849d-716165ce5dc5.png)
 
