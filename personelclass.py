@@ -53,7 +53,7 @@ class personel:
         information_label = tk.Label(iletisim, text="İletişim ", bg="white", fg="red", font=('Formul', 9, 'bold')).pack()
         information_label = tk.Label(iletisim, text="Linkedin : https://www.linkedin.com/in/eerenaydin/ \n"
                                                         "Gmail : sonfurinar@gmail.com\n"
-                                                        "Github : https://github.com/furinar ", bg="white", fg="black", font=('Formul', 9, 'bold')).pack()
+                                                        "Github : https://github.com/erenaydn ", bg="white", fg="black", font=('Formul', 9, 'bold')).pack()
         cikisbuttoniletisim = tk.Button(iletisim, text="Tamam ", command=lambda: iletisimclose()).pack()
 
         iletisim.mainloop()
